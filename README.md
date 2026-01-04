@@ -1,4 +1,5 @@
 # 🚀 My Web Development Journey &nbsp; <a href="#turkish"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/tr.svg" width="30" align="center"></a> <a href="#english"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="30" align="center"></a>
+<br>
 
 <a name="turkish"></a>
 ## 🇹🇷 Türkçe Proje Açıklaması
@@ -17,7 +18,16 @@ Bu repository, web geliştirme (Front-end) yolculuğum boyunca öğrendiğim tek
 - [ ] JavaScript ile etkileşimli yapılar kurmak
 - [ ] Modern Framework'leri (React/Next.js vb.) keşfetmek
 
+### 👤 İletişim
+
+<a href="https://erenkadiroglu.com"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"></a>&nbsp;<a href="mailto:erenkdroglu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="https://github.com/erenkadiroglu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/erenkadiroglu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<br>
+
 ---
+---
+---
+<br>
 
 <a name="english"></a>
 ## 🇺🇸 English Project Description
@@ -36,8 +46,6 @@ My current focus is on building the foundation of web pages. You can access my w
 - [ ] Building interactive structures with JavaScript
 - [ ] Exploring modern frameworks (React/Next.js, etc.)
 
----
-
-### 👤 İletişim / Contact
+### 👤 Contact
 
 <a href="https://erenkadiroglu.com"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"></a>&nbsp;<a href="mailto:erenkdroglu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="https://github.com/erenkadiroglu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://www.linkedin.com/in/erenkadiroglu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
