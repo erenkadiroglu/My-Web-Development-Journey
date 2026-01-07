@@ -15,6 +15,7 @@ Bu klasör, HTML öğrenim sürecimdeki tüm teknik çalışmaları ve uygulama 
 | **[04-Images](./04-Images)** | Görsel Yönetimi | Web optimizasyonu, erişilebilirlik ve resim yolları. |
 | **[05-Audios](./05-Audios)** | Ses Dosyaları | Ses dosyası entegrasyonu ve tarayıcı kontrolleri. |
 | **[06-Videos](./06-Videos)** | Video Dosyaları | Video gömme teknikleri ve source yönetimi. |
+| **[07-Favicons](./07-Favicons)** | Favicon Kullanımı | Tarayıcı sekme ikonları ve link etiketi ile ikon tanımlama. |
 | **[Assets](./Assets)** | Kaynak Dosyalar | Projelerde kullanılan ortak medya kütüphanesi. |
 
 ### 🚀 Nasıl Çalıştırılır?
@@ -50,6 +51,7 @@ This folder contains all technical studies and application examples from my HTML
 | **[04-Images](./04-Images)** | Image Management | Web optimization, accessibility, and image paths. |
 | **[05-Audios](./05-Audios)** | Audio Files | Audio file integration and browser controls. |
 | **[06-Videos](./06-Videos)** | Video Files | Video embedding techniques and source management. |
+| **[07-Favicons](./07-Favicons)** | Favicon Usage | Browser tab icons and defining icons with the link tag. |
 | **[Assets](./Assets)** | Asset Files | Common media library used throughout the projects. |
 
 ### 🚀 How to Run?
